@@ -334,7 +334,7 @@ BANNERS
 	background-repeat: no-repeat;
 	margin-top: 7px;
 	margin-bottom: 10px;
-	background-color: #9F6;
+	/* background-color: #9F6; */
 }
 
 .subpage-message-holder-services {
